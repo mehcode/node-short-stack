@@ -1,4 +1,4 @@
-# node-short-stack
+# short-stack
 
 ## Install
 
