@@ -1,0 +1,19 @@
+{
+  "name": "short-stack",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "Elegant and delicious stack traces for node.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/launchbadge/node-short-stack.git"
+  },
+  "author": "Ryan Leckey <leckey.ryan@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/launchbadge/node-short-stack/issues"
+  },
+  "homepage": "https://github.com/launchbadge/node-short-stack#readme",
+  "dependencies": {
+    "stackup": "git+https://github.com/mehcode/node-stackup.git"
+  }
+}
